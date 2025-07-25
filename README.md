@@ -1,8 +1,11 @@
 # Software Engineer 
+> Passionate about building scalable AI-driven applications with real-world impact.  
+> Strong focus on open source, backend systems, and intelligent automation.
 
-#### TLanguages: Python, Java, JavaScript, C++
-### Frameworks: Flask, FastAPI, HTML, CSS, LangChain, REST APIs, SQLite, Scikit-Learn, Transformers
-### Tools: Git, GitHub, Render, Docker, Jenkins
+#### Languages: Python, Java, JavaScript, C++
+#### Frameworks & Libraries: FastAPI, Flask, LangChain, Transformers, scikit-learn  
+#### Frontend: HTML, CSS, JavaScript  
+#### Tools: Git, GitHub, Render, Docker, Jenkins
 
 ## Work Experience
 **AI Agent Development Intern @ International Institute of SDGs and Public Policy Research (_July 2025 - Present_)**
@@ -25,9 +28,8 @@ Key contributions include:
 
 This contribution improved the benchmarking consistency and reduced model integration friction for new LLM architectures.
 
----
-### 📘 OpenSPP – Documentation Contributor  
-**GitHub:** [digitalgreenorg/OpenSPP](https://github.com/digitalgreenorg/OpenSPP)  
+
+**OpenSPP** **GitHub:** [digitalgreenorg/OpenSPP](https://github.com/digitalgreenorg/OpenSPP)  
 **Tech Stack:** Markdown · Shell · Ubuntu  
 
 Contributed to OpenSPP by improving developer onboarding:  
@@ -37,39 +39,42 @@ Contributed to OpenSPP by improving developer onboarding:
 >  Helped expand platform adoption by supporting non-containerized deployments.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### AI-Powered Health Insurance Document Explainer
+[Live Site](https://ai-powered-health-insurance.onrender.com/)  
+[Source Code](https://github.com/22AmitDeo/AI-Powered-Health-Insurance-Explainer)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Built InsuraAI, a full-stack AI web application that enables users to query health insurance documents in natural
+language, simplifying policy comprehension for non-technical users.
+- Developed the backend using FastAPI, LangChain, PDFPlumber, and Google Gemini Pro to parse, chunk,
+and semantically embed PDF documents for accurate and context-aware responses.
+- Designed a responsive frontend with HTML, CSS, and vanilla JavaScript, and deployed the application on
+Render, ensuring a smooth, accessible user experience and scalable delivery.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Resume Role Suggester
+[Source Code](https://github.com/22AmitDeo/Resume-Role-Suggester?tab=readme-ov-file)  
+- Developed an interactive resume analyzer web app using Flask, spaCy, and scikit-learn that matches PDF
+resumes to the most relevant job roles using TF-IDF vectorization and cosine similarity
+- Implemented NLP-based text extraction and preprocessing using pdfminer.six and spaCy, enabling clean and
+structured analysis of resume content.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+##  Achievements
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+###  Runner-Up – Graphicala Design Hackathon  
+**Organized by:** Open Source Club, VIT-AP  
+- Awarded **Runner-Up** in a university-level design hackathon focused on graphic-based problem-solving.  
+- Recognized for innovative thinking, **UI/UX design skills**, and effective visual storytelling.  
+- Stood out among dozens of teams for creativity and clarity in design execution.  
+[Certificate](https://drive.google.com/file/d/14p4zwul9R_cNqZ8W7tKz1OzKbaSQM08o/view)
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+### 🏁 Top 6% – MotoGP Burnout Datathon (Kaggle)  
+**Ranking:** 43rd out of 781 participants  
+- Competed in a **12-hour real-time machine learning competition** analyzing MotoGP racing telemetry data.  
+- Demonstrated strong skills in **data wrangling, feature engineering, and model tuning** under time pressure.  
+- Achieved a top percentile rank for predictive accuracy and execution strategy.  
+[Link](https://drive.google.com/file/d/1DYLI9SG_01fhG4ArGnL10_W3Tj5SQoU1/view)
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
+## Certification
+IBM DevOps and Software Engineering  
+[Link](https://drive.google.com/file/d/1UO4Hl0aL-ABBnkmGm8DHCAydWl40M6ql/view)
