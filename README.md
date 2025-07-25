@@ -12,9 +12,29 @@
 - Integrated 10+ RESTful APIs and external datasets using Python (requests, asyncio) and FastAPI, enabling
   real-time, context-aware decision-making and improving agent response accuracy by 35%.
 
-**Open Source**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+## Open Source
+**Lightbench**
+**GitHub:** [filipnaudot/lightbench](https://github.com/filipnaudot/lightbench)  
+**Tech Stack:** Python · PyTorch · HuggingFace Transformers · Git
+
+Contributed to **Lightbench**, a benchmarking suite for evaluating large language models (LLMs).  
+Key contributions include:
+
+- Implemented support for **seamless integration of new LLMs**, enhancing extensibility of the platform.  
+- **Improved different API Loader's system prompt logic**, ensuring accurate instruction formatting and better model compatibility.
+
+This contribution improved the benchmarking consistency and reduced model integration friction for new LLM architectures.
+
+---
+### 📘 OpenSPP – Documentation Contributor  
+**GitHub:** [digitalgreenorg/OpenSPP](https://github.com/digitalgreenorg/OpenSPP)  
+**Tech Stack:** Markdown · Shell · Ubuntu  
+
+Contributed to OpenSPP by improving developer onboarding:  
+- Authored a comprehensive **Native Installation Guide** for environments **without Docker**, improving accessibility for contributors using traditional Linux setups.  
+
+> [Pull Request #12: Add Native Installation Guide](https://github.com/OpenSPP/documentation/pull/12)  
+>  Helped expand platform adoption by supporting non-containerized deployments.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
