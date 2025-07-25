@@ -1,6 +1,6 @@
 # Software Engineer 
-> Passionate about building scalable AI-driven applications with real-world impact.  
-> Strong focus on open source, backend systems, and intelligent automation.
+Passionate about building scalable AI-driven applications with real-world impact.  
+Strong focus on open source, backend systems, and intelligent automation.
 
 #### Languages: Python, Java, JavaScript, C++
 #### Frameworks & Libraries: FastAPI, Flask, LangChain, Transformers, scikit-learn  
