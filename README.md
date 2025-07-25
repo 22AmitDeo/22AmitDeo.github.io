@@ -78,3 +78,14 @@ structured analysis of resume content.
 ## Certification
 IBM DevOps and Software Engineering  
 [Link](https://drive.google.com/file/d/1UO4Hl0aL-ABBnkmGm8DHCAydWl40M6ql/view)
+
+## Contact Me
+
+I'm always open to collaboration, freelance opportunities, open-source contributions, or just a good tech conversation.
+
+- Email: [amitkumardeo95@gmail.com](mailto:amitkumardeo95@gmail.com)  
+- LinkedIn: [linkedin.com/in/](https://www.linkedin.com/in/amit-kumar-deo-9269bb273/)  
+- GitHub: [github.com/22AmitDeo](https://github.com/22AmitDeo)  
+- Phone No: +91 9205510304  
+
+Feel free to reach out I’ll get back to you as soon as I can!
