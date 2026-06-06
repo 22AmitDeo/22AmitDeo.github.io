@@ -1,91 +1,104 @@
-# Software Engineer 
-Passionate about building scalable AI-driven applications with real-world impact.  
-Strong focus on open source, backend systems, and intelligent automation.
+# Amit Kumar Deo
 
-#### Languages: Python, Java, JavaScript, C++
-#### Frameworks & Libraries: FastAPI, Flask, LangChain, Transformers, scikit-learn  
-#### Frontend: HTML, CSS, JavaScript  
-#### Tools: Git, GitHub, Render, Docker, Jenkins
+📧 amit.22deo@gmail.com | 📱 +91 92055 10304 | [GitHub](https://github.com/22AmitDeo) | [LinkedIn](https://www.linkedin.com/in/amit-kumar-deo-9269bb273/)
 
-## Work Experience
-**AI Agent Development Intern @ International Institute of SDGs and Public Policy Research (_July 2025 - Present_)**
-- Designed and deployed intelligent automation agents to handle policy data extraction, stakeholder queries, and
-  multi-step reasoning using Python, LangChain, and OpenAI APIs, achieving an 80%, reduction in manual
-  intervention across workflows
-- Integrated 10+ RESTful APIs and external datasets using Python (requests, asyncio) and FastAPI, enabling
-  real-time, context-aware decision-making and improving agent response accuracy by 35%.
+---
 
-## Open Source
-**Lightbench**
-**GitHub:** [filipnaudot/lightbench](https://github.com/filipnaudot/lightbench)  
-**Tech Stack:** Python · PyTorch · HuggingFace Transformers · Git
+## About
 
-Contributed to **Lightbench**, a benchmarking suite for evaluating large language models (LLMs).  
-Key contributions include:
+I'm a B.Tech Computer Science student at VIT (CGPA 8.98/10) building production-grade software at the intersection of full-stack development and Generative AI. I've shipped real features — REST APIs, RAG pipelines, ML inference endpoints — in fast-paced, agile environments. I care about clean architecture, measurable outcomes, and continuous learning.
 
-- Implemented support for **seamless integration of new LLMs**, enhancing extensibility of the platform.  
-- **Improved different API Loader's system prompt logic**, ensuring accurate instruction formatting and better model compatibility.
+---
 
-This contribution improved the benchmarking consistency and reduced model integration friction for new LLM architectures.
+## Education
 
+**B.Tech, Computer Science — Vellore Institute of Technology**
+*Aug 2023 – May 2027 | Vellore, Tamil Nadu*
+CGPA: **8.98 / 10** | Expected Graduation: May 2027
 
-**OpenSPP** **GitHub:** [digitalgreenorg/OpenSPP](https://github.com/digitalgreenorg/OpenSPP)  
-**Tech Stack:** Markdown · Shell · Ubuntu  
+---
 
-Contributed to OpenSPP by improving developer onboarding:  
-- Authored a comprehensive **Native Installation Guide** for environments **without Docker**, improving accessibility for contributors using traditional Linux setups.  
+## Experience
 
-> [Pull Request #12: Add Native Installation Guide](https://github.com/OpenSPP/documentation/pull/12)  
->  Helped expand platform adoption by supporting non-containerized deployments.
+### AI Agent Development Intern — International Institute of SDGs & Public Policy Research
+*Jul 2025 – Oct 2025 | Remote*
+
+- Designed and deployed Python/FastAPI automation agents for document processing workflows, cutting manual effort by **80%** and saving **12 hrs/week** — with all REST API endpoints delivered production-ready on schedule.
+- Integrated **10+ REST APIs** and built automated document pipelines using FastAPI and PDFPlumber, improving output accuracy by **35%**.
+- Conducted data analysis on system outputs to identify performance bottlenecks and iterated on solutions in an agile-style environment.
+
+### Undergraduate Researcher — VIT AP University
+*Dec 2025 – Present | Amaravati, Andhra Pradesh*
+
+- Designed a Neural CDE model for ECG cardiac anomaly detection, benchmarked rigorously against CNN and LSTM architectures.
+- Performed EDA and statistical analysis across model architectures using systematic debugging and evaluation methodology.
+
+---
 
 ## Projects
-### AI-Powered Health Insurance Document Explainer
-[Live Site](https://ai-powered-health-insurance.onrender.com/)  
-[Source Code](https://github.com/22AmitDeo/AI-Powered-Health-Insurance-Explainer)
 
-- Built InsuraAI, a full-stack AI web application that enables users to query health insurance documents in natural
-language, simplifying policy comprehension for non-technical users.
-- Developed the backend using FastAPI, LangChain, PDFPlumber, and Google Gemini Pro to parse, chunk,
-and semantically embed PDF documents for accurate and context-aware responses.
-- Designed a responsive frontend with HTML, CSS, and vanilla JavaScript, and deployed the application on
-Render, ensuring a smooth, accessible user experience and scalable delivery.
+### GitHub Repository Analysis & Code Q&A System
+*React.js · FastAPI · LangChain · FAISS · PostgreSQL* | [GitHub](https://github.com/22AmitDeo/Dionysis) | [Live Demo](https://www.youtube.com/watch?v=-_CEmpiAIbU)
+
+A full-stack web app that lets developers ask questions about large GitHub codebases in plain English. Built a React.js frontend with a FastAPI backend, implemented semantic search with FAISS vector indexing, and integrated RAG with prompt engineering — reducing developer comprehension time by **70%**.
+
+### Field Yield Estimation ML Pipeline
+*Python · Scikit-learn · XGBoost · FastAPI · SHAP · Pandas* | [GitHub](https://github.com/22AmitDeo/Feild-Yeild-Estimation)
+
+An end-to-end ML pipeline with a FastAPI inference endpoint for real-world agricultural yield prediction. Benchmarked four model architectures (Linear Regression, Random Forest, Gradient Boosting, XGBoost), validated against Kaggle baselines, and applied SHAP for model explainability.
+
+### InsuraAI — Health Insurance Document Explainer
+*FastAPI · LangChain · Google Gemini Pro · PDFPlumber · HTML/CSS/JS* | [GitHub](https://github.com/22AmitDeo) | [Live Site](#)
+
+A full-stack AI web app that lets users upload a health insurance PDF and ask questions about it in plain English — simplifying policy comprehension for non-technical users. Backend handles PDF parsing, chunking, and semantic embedding for accurate, context-aware responses. Deployed on Render.
 
 ### Resume Role Suggester
-[Source Code](https://github.com/22AmitDeo/Resume-Role-Suggester?tab=readme-ov-file)  
-- Developed an interactive resume analyzer web app using Flask, spaCy, and scikit-learn that matches PDF
-resumes to the most relevant job roles using TF-IDF vectorization and cosine similarity
-- Implemented NLP-based text extraction and preprocessing using pdfminer.six and spaCy, enabling clean and
-structured analysis of resume content.
+*Flask · spaCy · scikit-learn · pdfminer.six* | [GitHub](https://github.com/22AmitDeo)
 
-##  Achievements
+An NLP-powered web app that reads your resume and matches it to the most relevant job roles using TF-IDF vectorisation and cosine similarity — no manual tagging needed.
 
-###  Runner-Up – Graphicala Design Hackathon  
-**Organized by:** Open Source Club, VIT-AP  
-- Awarded **Runner-Up** in a university-level design hackathon focused on graphic-based problem-solving.  
-- Recognized for innovative thinking, **UI/UX design skills**, and effective visual storytelling.  
-- Stood out among dozens of teams for creativity and clarity in design execution.  
-[Certificate](https://drive.google.com/file/d/14p4zwul9R_cNqZ8W7tKz1OzKbaSQM08o/view)
+---
 
+## Open Source Contributions
 
+### Lightbench — LLM Benchmarking Suite
+*filipnaudot/lightbench | Python · PyTorch · HuggingFace Transformers*
 
-### 🏁 Top 6% – MotoGP Burnout Datathon (Kaggle)  
-**Ranking:** 43rd out of 781 participants  
-- Competed in a **12-hour real-time machine learning competition** analyzing MotoGP racing telemetry data.  
-- Demonstrated strong skills in **data wrangling, feature engineering, and model tuning** under time pressure.  
-- Achieved a top percentile rank for predictive accuracy and execution strategy.  
-[Link](https://drive.google.com/file/d/1DYLI9SG_01fhG4ArGnL10_W3Tj5SQoU1/view)
+Contributed to a benchmarking suite for evaluating large language models. Implemented support for integrating new LLMs more easily and improved the API loader's system prompt logic — making instruction formatting more accurate and reducing friction when onboarding new model architectures.
 
-## Certification
-IBM DevOps and Software Engineering  
-[Link](https://drive.google.com/file/d/1UO4Hl0aL-ABBnkmGm8DHCAydWl40M6ql/view)
+### OpenSPP — Social Protection Platform
+*digitalgreenorg/OpenSPP | Markdown · Shell · Ubuntu*
 
-## Contact Me
+Authored a comprehensive Native Installation Guide for Linux environments without Docker, helping developers set up the platform using traditional workflows and expanding contributor accessibility beyond containerised setups. *(PR #12)*
 
-I'm always open to collaboration, freelance opportunities, open-source contributions, or just a good tech conversation.
+---
 
-- Email: [amitkumardeo95@gmail.com](mailto:amitkumardeo95@gmail.com)  
-- LinkedIn: [linkedin.com/in/](https://www.linkedin.com/in/amit-kumar-deo-9269bb273/)  
-- GitHub: [github.com/22AmitDeo](https://github.com/22AmitDeo)  
-- Phone No: +91 9205510304  
+## Achievements & Certifications
 
-Feel free to reach out I’ll get back to you as soon as I can!
+- 🏆 **Third Place — OpenVerse Hacknight** — collaborative, fast-paced software development competition.
+- 🏁 **Top 6% (43rd / 781) — MotoGP Burnout Datathon, Kaggle** — real-time data analysis and ML under a 12-hour competitive timeline.
+- 📜 **IBM DevOps & Software Engineering Professional Certificate** — CI/CD, containerisation, and agile/lean development practices. [View](https://drive.google.com/file/d/1UO4Hl0aL-ABBnkmGm8DHCAydWl40M6ql/view)
+- ☁️ **AWS Cloud Architecture Certification** — scalable, cloud-based system design. [View](http://credly.com/badges/62744d56-39a3-4400-9cfc-806d10ea4cae/public_url)
+
+---
+
+## Technical Skills
+
+| Area | Skills |
+|---|---|
+| **Languages** | Java, JavaScript (ES6+), Python, C++, SQL |
+| **Frontend** | React.js, HTML5, CSS3, component-based architecture |
+| **Backend & APIs** | FastAPI, Flask, REST API design, PostgreSQL, MySQL, SQLite |
+| **AI / ML** | LangChain, Scikit-learn, Transformers, Generative AI APIs, Prompt Engineering, RAG, FAISS |
+| **DevOps & Tools** | Git, Docker, Jenkins, CI/CD, Linux, Agile/Lean |
+
+---
+
+## Contact
+
+Open to internships, full-time roles, freelance work, or open-source collaboration. I reply fast.
+
+📧 [amit.22deo@gmail.com](mailto:amit.22deo@gmail.com)
+📱 +91 92055 10304
+🐙 [github.com/22AmitDeo](https://github.com/22AmitDeo)
+💼 [linkedin.com/in/amit-kumar-deo-9269bb273](https://www.linkedin.com/in/amit-kumar-deo-9269bb273/)
