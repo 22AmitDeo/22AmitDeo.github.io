@@ -78,8 +78,8 @@ Authored a comprehensive Native Installation Guide for Linux environments withou
 
 ## Achievements & Certifications
 
-- **Third Place — OpenVerse Hacknight** collaborative, fast-paced software development competition.
-- **Top 6% (43rd / 781) — MotoGP Burnout Datathon, Kaggle** real-time data analysis and ML under a 12-hour competitive timeline.
+- **Third Place OpenVerse Hacknight** collaborative, fast-paced software development competition.
+- **Top 6% (43rd / 781) MotoGP Burnout Datathon, Kaggle** real-time data analysis and ML under a 12-hour competitive timeline.
 - **IBM DevOps & Software Engineering Professional Certificate** CI/CD, containerisation, and agile/lean development practices. [View](https://drive.google.com/file/d/1UO4Hl0aL-ABBnkmGm8DHCAydWl40M6ql/view)
 - **AWS Cloud Architecture Certification** scalable, cloud-based system design. [View](http://credly.com/badges/62744d56-39a3-4400-9cfc-806d10ea4cae/public_url)
 
